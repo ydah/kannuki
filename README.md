@@ -1,5 +1,5 @@
+<h1 align="center">Kannuki</h1>
 <p align="center">
-  <strong>Kannuki</strong><br>
   Advisory locking for ActiveRecord with modern Rails conventions.
 </p>
 
