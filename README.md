@@ -1,6 +1,16 @@
 <h1 align="center">Kannuki</h1>
+
 <p align="center">
   Advisory locking for ActiveRecord with modern Rails conventions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ruby-%3E%3D%203.1-ruby.svg" alt="Ruby Version">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+  <a href="https://badge.fury.io/rb/kannuki"><img src="https://badge.fury.io/rb/kannuki.svg" alt="Gem Version" height="18"></a>
+  <a href="https://github.com/ydah/kannuki/actions/workflows/main.yml">
+    <img src="https://github.com/ydah/kannuki/actions/workflows/main.yml/badge.svg" alt="CI Status">
+  </a>
 </p>
 
 <p align="center">
